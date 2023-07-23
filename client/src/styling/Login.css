@@ -1,0 +1,23 @@
+.form{
+    border : 2px solid black;
+    border-radius: 8px 5px 3px 5px;
+    padding:20px;
+    width:300px;
+    margin:300px 250px 500px 500px;
+    align-items: center;
+}
+.space{
+    padding:4px;
+}
+.submit{
+    padding-top:4px;
+    margin-left:100px;
+}
+
+.input{
+    border-radius: 8px;
+}
+
+.psw{
+    padding-left:2px;
+}

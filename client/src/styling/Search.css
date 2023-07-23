@@ -1,0 +1,8 @@
+#search{
+    margin-left: 10px;
+    border:8px;
+    width: 100px;
+}
+#search:hover{
+    background-color: aqua;
+}
